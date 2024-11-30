@@ -23,13 +23,13 @@ Ensure you have the following installed on your system:
 Clone the repository to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/muhammadsaadkhankor/MixamoAnimationsCombiner.git)
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd <project-directory>
+cd MixamoAnimationsCombiner
 ```
 
 Install dependencies:
