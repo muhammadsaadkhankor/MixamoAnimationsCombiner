@@ -46,7 +46,7 @@ To start the development server:
 npm run dev
 ```
 
-The application will be accessible at [http://localhost:3000/](http://localhost:3000/) or another port specified in your terminal.
+The application will be accessible at [http://localhost:3000/](http://localhost:portNumber/) or another port specified in your terminal.
 
 ## How to Use
 
